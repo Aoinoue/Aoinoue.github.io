@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <CD>
+    <TITLE>NTCUST</TITLE>
+    <ARTIST>國立臺中科技大學</ARTIST>
+    <COUNTRY>大學部</COUNTRY>
+    <COMPANY>資訊工程系</COMPANY>
+    <PRICE>中華民國</PRICE>
+    <YEAR>臺中市</YEAR>
+  </CD>
+  <CD>
+    <TITLE>NPUST</TITLE>
+    <ARTIST>國立屏東科技大學</ARTIST>
+    <COUNTRY>大學部</COUNTRY>
+    <COMPANY>資訊管理系</COMPANY>
+    <PRICE>中華民國</PRICE>
+    <YEAR>屏東縣</YEAR>
+  </CD>
+  <CD>
+    <TITLE>NTTU</TITLE>
+    <ARTIST>國立臺東大學</ARTIST>
+    <COUNTRY>大學部</COUNTRY>
+    <COMPANY>資訊工程學系</COMPANY>
+    <PRICE>中華民國</PRICE>
+    <YEAR>臺東縣</YEAR>
+  </CD>
+  <CD>
+    <TITLE>SHU-TE UNIVERSITY</TITLE>
+    <ARTIST>樹德科技大學</ARTIST>
+    <COUNTRY>大學部</COUNTRY>
+    <COMPANY>資訊工程系</COMPANY>
+    <PRICE>中華民國</PRICE>
+    <YEAR>高雄市</YEAR>
+  </CD>
+  <CD>
+    <TITLE>TSCVS</TITLE>
+    <ARTIST>國立臺東高級商業職業學校</ARTIST>
+    <COUNTRY>綜合高中部</COUNTRY>
+    <COMPANY>資訊應用學程</COMPANY>
+    <PRICE>中華民國</PRICE>
+    <YEAR>臺東縣</YEAR>
+  </CD>  
+</CATALOG>
